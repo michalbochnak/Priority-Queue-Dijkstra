@@ -1,0 +1,4 @@
+﻿  pqueue.cpp
+c:\users\michal\documents\visual studio 2017\projects\cs 251 project 7 priority queue-dijkstra\cs 251 project 7 priority queue-dijkstra\pqueue.cpp(504): warning C4101: 'minIndex': unreferenced local variable
+  CS 251 Project 7 Priority Queue-Dijkstra.vcxproj -> c:\users\michal\documents\visual studio 2017\Projects\CS 251 Project 7 Priority Queue-Dijkstra\Debug\CS 251 Project 7 Priority Queue-Dijkstra.exe
+  CS 251 Project 7 Priority Queue-Dijkstra.vcxproj -> c:\users\michal\documents\visual studio 2017\Projects\CS 251 Project 7 Priority Queue-Dijkstra\Debug\CS 251 Project 7 Priority Queue-Dijkstra.pdb (Partial PDB)
